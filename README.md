@@ -1,4 +1,4 @@
-Rufus: The Reliable USB Formatting Utility
+Rufus: Forked By IP3computing
 ==========================================
 
 [![Build status](https://ci.appveyor.com/api/projects/status/0nciqepn6hko4to9?svg=true)](https://ci.appveyor.com/project/pbatard/rufus)
